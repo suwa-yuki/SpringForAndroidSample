@@ -1,0 +1,1 @@
+package jp.classmethod.android.sample.springforandroid;public class BookJson {        public String author;        public String title;        public String price;        @Override    public String toString() {        return "author:" + author + "\ntitle:" + title + "\nprice:" + price + "\n";    }}
